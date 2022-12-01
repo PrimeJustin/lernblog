@@ -8,7 +8,7 @@ pinned = false
 
 Auf einer Rettungsstation warten Rettungssanitäter*innen wie Anja Hofer gut vorbereitet auf ihren Einsatz. Sie sind für unsere heutige Gesellschaft unersetzbar. Sie nehmen täglich grosse Herausforderungen auf sich, um Menschen in Not zu helfen.   
 
-{{</lead>}}
+{{</lead>}}  
 
 Der Rettungsdienst ist ein wichtiger Teil unseres Gesundheits- und Sicherheitssystems. Auf dem Rettungsstützpunkt Gesigen der Spital Simmental-Thun-Saaneland (STS) AG wird täglich Leben gerettet. Die Rettungssanitäter*innen müssen viel über Medizin wissen und auch psychisch stark sein, denn im Verlauf des Berufs wird es Momente geben, bei denen der Einsatz nicht so verläuft, wie man es sich erhofft hat. Solche Situationen sind nicht einfach zu bewältigen.   
 
@@ -22,9 +22,11 @@ An einem Donnerstagmorgen, Punkt 7 Uhr in der Früh machen wir uns vom Bahnhof S
 
 Die ersten Formen eines Rettungsdienstes gab es unter Napoleon im 18. Jahrhundert. Da Napoleon viele Kriege führte, gab es entsprechend viele Verletzte. Um diese zu bergen und zu versorgen, gab es Soldaten, die bewusst dem Geschehen auf dem Schlachtfeld fernblieben. Diese Rettungssoldaten für Verwundete waren die ersten Rettungssanitäter. Heute ist der Rettungsdienst vor allem in den Bereichen Erste Hilfe, Notfallmedizin und Transport von Verunfallten tätig. Täglich werden in der Schweiz von den 96 Rettungsdiensten, die es hierzulande gibt, über 1200 Einsätze durchgeführt. Bei 70% dieser Einsätze handelt es sich um Notfalleinsätze. Dazu zählen Primäreinsätze von höchster Dringlichkeit (P1), bei der eine potentielle Lebensbedrohung vorliegt und Primäreinsätze mit zweitrangiger Dringlichkeit (P2), bei der die Situation des Patienten nicht lebensbedrohlich ist, aber sich noch kurzfristig ändern könnte.  Wenn man in der Schweiz den Rettungsdienst alarmieren will, kann man das sowohl über die europaweite Notfallnummer 112 wie auch über die direkte Nummer des Rettungsdienstes 144 tun. Die Aufgaben einer Rettungssanitäterin sind vielfältig. ,,Man weiss nie, was an diesem Tag passiert, wenn man am Morgen aufsteht und zur Arbeit geht,’’ meint Anja Hofer. Man kann einen Einsatz nicht wählen, und so wird man mit immer neuen Aufgaben konfrontiert und trifft auch immer auf neue Menschen und Problemstellungen. Wenn man beim Rettungsdienst arbeitet, muss man einen sehr flexiblen Zeitplan haben. Es kann immer sein, dass man kurz vor Dienstende noch einen Einsatz bekommt, den man fahren muss. „Wenn man dann einen Einsatz bekommt, der 2 Stunden geht, muss man halt noch 2 Stunden Überzeit machen“, sagt Anja Hofer. Es ist wichtig, dass das Umfeld Verständnis dafür aufbringt. Da es immer sein kann, dass man mit privaten Abmachungen in Konflikt kommt, weil ein Einsatz dazwischenkommt, braucht man auf jeden Fall Spontaneität und vor allem Flexibilität.   
 
+{{<box>}}
+
 Die Spital STS AG verfügt über insgesamt 17 Fahrzeuge. 7 Rettungswagen, 5 Einsatzambulanzen und 5 Pikettfahrzeuge. Ihr Einsatzgebiet erstreckt sich von Thun über Spiez ins Simmental und bis nach Gstaad.  Es gibt rund 100 Mitarbeitende, die alle im Dienst der Rettung stehen. Im Jahr 2021 wurden mehr als 8500 Einsätze gefahren, wovon 48% zur höchsten Prioritätsstufe zählten. Man arbeitet mit easyCab zusammen, ein Unternehmen, welches sich um die Patiententransporte kümmert. Und mit firstresponder.be, welche Zivilisten beschäftigen, die bereits vor den Rettungskräften vor Ort sind und die ersten Massnahmen einleiten können.   
 
-{{<box>}}
+{{</box>}}
 
 ## Ausbildung   
 
@@ -32,7 +34,7 @@ Die Spital STS AG verfügt über insgesamt 17 Fahrzeuge. 7 Rettungswagen, 5 Eins
 
 Anja ist seit dem 1. März dieses Jahres als diplomierte Rettungssanitäterin HF beim Rettungsdienst Thun tätig. Ursprünglich lernte sie Fachfrau Gesundheit (FaGe). Bereits dort kam sie mit der Medizin in Berührung, die sie schon immer fasziniert hatte. Nach ihrer Lehre als FaGe war sie als Fitnesstrainerin tätig. In dieser Tätigkeit fehlte ihr allerdings der medizinische Aspekt, weshalb sie sich entschloss, die Ausbildung als Rettungssanitäterin zu beginnen. Jährlich schliessen ungefähr 400 Personen die Ausbildung ab. Diese dauert normalerweise drei Jahre. Man kann sie jedoch auch in 2 Jahren absolvieren, wenn man zuvor die entsprechende Ausbildung als Pflegefachfrau/Pflegefachmann gemacht hat. In der Ausbildung lernt man viel über die Bergungstechniken, d.h. wie man Patienten in den unmöglichsten Lagen richtig versorgen und abtransportieren kann. Ebenfalls wichtige Bestandteile der Ausbildung sind die medizinischen Grundlagen. Man lernt verschiedenste Bereiche der Medizin kennen. Vor allem lernt man aber, wie man bei einem Einsatz handeln soll und wie man das erlangte Wissen am besten einsetzt. Denn richtiges Handeln entscheidet möglicherweise über Leben oder Tod. Wegen den grossen Belastungen, die die Tätigkeit als Rettungssanitäter*in mitbringt, wollen wir von Anja zudem wissen, ob es auch Leute gibt, die die Ausbildung abbrechen, weil sie merken, dass die Belastung zu gross ist. „Das gibt es immer wieder,“ sagt sie. „Doch haben wir beim Rettungsdienst den Vorteil, dass man bei uns - im Gegensatz zur Polizei - auch mal ein oder zwei Schnuppertage machen kann, in denen man ein ziemlich genaues Bild davon erhält, was einen erwartet.“ Aber je nach Einsätzen, die die Leute an den Schnuppertagen miterleben, kann es dennoch sein, dass man ein falsches Bild erhält, denn es gibt auch Tage, an denen sehr wenig oder nichts Gravierendes passiert.   
 
-### Welche Geräte sind bei einem medizinischen Einsatz dabei?   
+## Welche Geräte sind bei einem medizinischen Einsatz dabei?   
 
 ### “Bei einer Reanimation nehmen wir immer den Lucas mit.”  
 
