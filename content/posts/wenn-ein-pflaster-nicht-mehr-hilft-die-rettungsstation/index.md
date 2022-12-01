@@ -8,7 +8,7 @@ pinned = false
 
 Auf einer Rettungsstation warten Rettungssanitäter*innen wie Anja Hofer gut vorbereitet auf ihren Einsatz. Sie sind für unsere heutige Gesellschaft unersetzbar. Sie nehmen täglich grosse Herausforderungen auf sich, um Menschen in Not zu helfen.   
 
-{{<box>}}
+{{<lead>}}
 
 Der Rettungsdienst ist ein wichtiger Teil unseres Gesundheits- und Sicherheitssystems. Auf dem Rettungsstützpunkt Gesigen der Spital Simmental-Thun-Saaneland (STS) AG wird täglich Leben gerettet. Die Rettungssanitäter*innen müssen viel über Medizin wissen und auch psychisch stark sein, denn im Verlauf des Berufs wird es Momente geben, bei denen der Einsatz nicht so verläuft, wie man es sich erhofft hat. Solche Situationen sind nicht einfach zu bewältigen.   
 
@@ -22,11 +22,9 @@ An einem Donnerstagmorgen, Punkt 7 Uhr in der Früh machen wir uns vom Bahnhof S
 
 Die ersten Formen eines Rettungsdienstes gab es unter Napoleon im 18. Jahrhundert. Da Napoleon viele Kriege führte, gab es entsprechend viele Verletzte. Um diese zu bergen und zu versorgen, gab es Soldaten, die bewusst dem Geschehen auf dem Schlachtfeld fernblieben. Diese Rettungssoldaten für Verwundete waren die ersten Rettungssanitäter. Heute ist der Rettungsdienst vor allem in den Bereichen Erste Hilfe, Notfallmedizin und Transport von Verunfallten tätig. Täglich werden in der Schweiz von den 96 Rettungsdiensten, die es hierzulande gibt, über 1200 Einsätze durchgeführt. Bei 70% dieser Einsätze handelt es sich um Notfalleinsätze. Dazu zählen Primäreinsätze von höchster Dringlichkeit (P1), bei der eine potentielle Lebensbedrohung vorliegt und Primäreinsätze mit zweitrangiger Dringlichkeit (P2), bei der die Situation des Patienten nicht lebensbedrohlich ist, aber sich noch kurzfristig ändern könnte.  Wenn man in der Schweiz den Rettungsdienst alarmieren will, kann man das sowohl über die europaweite Notfallnummer 112 wie auch über die direkte Nummer des Rettungsdienstes 144 tun. Die Aufgaben einer Rettungssanitäterin sind vielfältig. ,,Man weiss nie, was an diesem Tag passiert, wenn man am Morgen aufsteht und zur Arbeit geht,’’ meint Anja Hofer. Man kann einen Einsatz nicht wählen, und so wird man mit immer neuen Aufgaben konfrontiert und trifft auch immer auf neue Menschen und Problemstellungen. Wenn man beim Rettungsdienst arbeitet, muss man einen sehr flexiblen Zeitplan haben. Es kann immer sein, dass man kurz vor Dienstende noch einen Einsatz bekommt, den man fahren muss. „Wenn man dann einen Einsatz bekommt, der 2 Stunden geht, muss man halt noch 2 Stunden Überzeit machen“, sagt Anja Hofer. Es ist wichtig, dass das Umfeld Verständnis dafür aufbringt. Da es immer sein kann, dass man mit privaten Abmachungen in Konflikt kommt, weil ein Einsatz dazwischenkommt, braucht man auf jeden Fall Spontaneität und vor allem Flexibilität.   
 
-{{}}
-
 Die Spital STS AG verfügt über insgesamt 17 Fahrzeuge. 7 Rettungswagen, 5 Einsatzambulanzen und 5 Pikettfahrzeuge. Ihr Einsatzgebiet erstreckt sich von Thun über Spiez ins Simmental und bis nach Gstaad.  Es gibt rund 100 Mitarbeitende, die alle im Dienst der Rettung stehen. Im Jahr 2021 wurden mehr als 8500 Einsätze gefahren, wovon 48% zur höchsten Prioritätsstufe zählten. Man arbeitet mit easyCab zusammen, ein Unternehmen, welches sich um die Patiententransporte kümmert. Und mit firstresponder.be, welche Zivilisten beschäftigen, die bereits vor den Rettungskräften vor Ort sind und die ersten Massnahmen einleiten können.   
 
-{{}}
+{{<box>}}
 
 ## Ausbildung   
 
