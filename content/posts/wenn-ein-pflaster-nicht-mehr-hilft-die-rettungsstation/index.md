@@ -4,9 +4,13 @@ date = "2022-12-01"
 draft = false
 pinned = false
 +++
-{{<lead>}}
-
 Auf einer Rettungsstation warten Rettungssanitäter*innen wie Anja Hofer gut vorbereitet auf ihren Einsatz. Sie sind für unsere heutige Gesellschaft unersetzbar. Sie nehmen täglich grosse Herausforderungen auf sich, um Menschen in Not zu helfen.   
+
+```
+{{<lead>}}
+```
+
+
 
 Der Rettungsdienst ist ein wichtiger Teil unseres Gesundheits- und Sicherheitssystems. Auf dem Rettungsstützpunkt Gesigen der Spital Simmental-Thun-Saaneland (STS) AG wird täglich Leben gerettet. Die Rettungssanitäter*innen müssen viel über Medizin wissen und auch psychisch stark sein, denn im Verlauf des Berufs wird es Momente geben, bei denen der Einsatz nicht so verläuft, wie man es sich erhofft hat. Solche Situationen sind nicht einfach zu bewältigen.   
 
