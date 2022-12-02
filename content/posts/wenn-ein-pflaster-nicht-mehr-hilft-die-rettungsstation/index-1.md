@@ -1,7 +1,7 @@
 +++
 title = "Wenn ein Pflaster nicht mehr hilft - Die Rettungsstation"
 date = "2022-12-01"
-draft = false
+draft = true
 pinned = false
 image = "bil-rettungswagen.jpg"
 +++
@@ -23,7 +23,8 @@ Die ersten Formen eines Rettungsdienstes gab es unter Napoleon im 18. Jahrhunder
 
 {{<box>}}
 
-Die Spital STS AG verfügt über insgesamt 17 Fahrzeuge. 7 Rettungswagen, 5 Einsatzambulanzen und 5 Pikettfahrzeuge. Ihr Einsatzgebiet erstreckt sich von Thun über Spiez ins Simmental und bis nach Gstaad.  Es gibt rund 100 Mitarbeitende, die alle im Dienst der Rettung stehen. Im Jahr 2021 wurden mehr als 8500 Einsätze gefahren, wovon 48% zur höchsten Prioritätsstufe zählten. Man arbeitet mit easyCab zusammen, ein Unternehmen, welches sich um die Patiententransporte kümmert. Und mit firstresponder.be, welche Zivilisten beschäftigen, die bereits vor den Rettungskräften vor Ort sind und die ersten Massnahmen einleiten können.`{{</box>}}`
+Die Spital STS AG verfügt über insgesamt 17 Fahrzeuge. 7 Rettungswagen, 5 Einsatzambulanzen und 5 Pikettfahrzeuge. Ihr Einsatzgebiet erstreckt sich von Thun über Spiez ins Simmental und bis nach Gstaad.  Es gibt rund 100 Mitarbeitende, die alle im Dienst der Rettung stehen. Im Jahr 2021 wurden mehr als 8500 Einsätze gefahren, wovon 48% zur höchsten Prioritätsstufe zählten. Man arbeitet mit easyCab zusammen, ein Unternehmen, welches sich um die Patiententransporte kümmert. Und mit firstresponder.be, welche Zivilisten beschäftigen, die bereits vor den Rettungskräften vor Ort sind und die ersten Massnahmen einleiten können.\
+{{</box>}}
 
 # Ausbildung   
 
