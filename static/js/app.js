@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var lastScrollTop;
     window.addEventListener('scroll', function () {
       var scrollTop = window.scrollY;
-      if (lastScrollTop && scrollTop > lastScrollTop) {
+      if (lastScrollTop !== undefined && scrollTop > 120 && scrollTop > lastScrollTop) {
         autohide.classList.remove('scrolled-up');
         autohide.classList.add('scrolled-down');
       } else {
