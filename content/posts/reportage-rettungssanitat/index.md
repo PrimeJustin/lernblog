@@ -3,6 +3,7 @@ title = "Wenn ein Pflaster nicht mehr hilft - Die Rettungsstation"
 date = "2022-12-01"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "bil-rettungswagen.jpg"
 +++
 {{<lead>}}
