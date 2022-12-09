@@ -7,7 +7,7 @@ image = "bil-rettungswagen.jpg"
 +++
 {{<lead>}}
 
-Auf einer Rettungsstation warten Rettungssanitäter*innen wie Anja Hofer gut vorbereitet auf ihren Einsatz. Sie sind für unsere heutige Gesellschaft unersetzbar. Sie nehmen täglich grosse Herausforderungen auf sich, um Menschen in Not zu helfen.
+Auf einer Rettungsstation warten Rettungssanitäter*innen wie Anja Hofer gut vorbereitet auf ihren Einsatz. Sie sind für unsere heutige Gesellschaft unersetzbar. Sie nehmen täglich grosse Herausforderungen auf sich, um Menschen in Not zu helfen. *Eine Reportage von Justin Tran und Jan Zimmermann*
 
 {{</lead>}}
 
@@ -39,11 +39,13 @@ Anja ist seit dem 1. März dieses Jahres als diplomierte Rettungssanitäterin HF
 
 ![Abbildung 3 Der Einsatzrucksack, der auf fast jedem Einsatz dabei ist. Foto: Jan Zimmermann](2e99105c-68ea-436e-a2c8-f2ddfa5f762f.jpg)
 
+Wenn ein Einsatz bei der Zentrale eingegangen ist, läuft das für den Einsatz zugewiesene Team die Treppe herunter und rennt schnellstmöglich hinüber zur Garage, in der die Einsatzfahrzeuge stehen. Eben dies tun wir auch. Wir rennen die Treppe hinunter und laufen über den Parkplatz zur Garage. Dort will uns Anja Hofer einen einsatzfertigen Rettungswagen zeigen.
+
 > “Bei einer Reanimation nehmen wir immer den Lucas mit.”  
 >
 > *Anja Hofer*
 
-Wenn ein Einsatz bei der Zentrale eingegangen ist, läuft das für den Einsatz zugewiesene Team die Treppe herunter und rennt schnellstmöglich hinüber zur Garage, in der die Einsatzfahrzeuge stehen. Eben dies tun wir auch. Wir rennen die Treppe hinunter und laufen über den Parkplatz zur Garage. Dort will uns Anja Hofer einen einsatzfertigen Rettungswagen zeigen. Was auf den ersten Blick auffällt, ist, dass alles blitzsauber und sehr gut aufgeräumt ist. Ausserdem liegt nichts herum und alles ist fest angemacht, da bei einem rasanten Einsatz nichts herumfliegen darf. Das wäre ein zu grosses Verletzungsrisiko, und man hat auch keine Zeit, bei einem Einsatz noch Geräte zusammenzusuchen. Anja sagt, dass bei fast jedem Einsatz der Monitor dabei sei. Mit diesem könne man alles Mögliche machen, vom Überwachen des Patienten bis zur Defibrillation. Auch der Einsatzrucksack ist fast immer dabei. Er ist vor allem für die Erstversorgung ausgestattet. Es sind Medikamente, Infusionen und Sauerstoff vorhanden, also alles, was man für die Erstversorgung der Patienten braucht, bevor sie in den Wagen transportiert werden. Ein sehr markantes Gerät, das im Rettungswagen vorhanden ist, ist der sogenannte Lucas. Es sieht aus wie ein Bogen, aus dem so etwas wie ein Saugnapf herauskommt. Anja sagt: „Bei einer Reanimation nehmen wir ihn immer mit. Der Lucas ist eine Maschine, die für uns drückt.” Das Drücken bei der Herzdruckmassage sei sehr anstrengend, und deshalb sei der Lucas eine optimale Unterstützung. Jedoch gibt es auch noch viele andere Geräte, die bei Bedarf zum Einsatz hinzugefügt werden. Wenn man zum Beispiel mit einer bewusstlosen Person mit Erbrochenem oder Essensresten in der Speiseröhre rechnet, nimmt man zusätzlich eine Absaugeinheit mit, um die Atemwege freizulegen. So kann der Patient mit ausreichend Sauerstoff versorgt werden.
+ Was auf den ersten Blick auffällt, ist, dass alles blitzsauber und sehr gut aufgeräumt ist. Ausserdem liegt nichts herum und alles ist fest angemacht, da bei einem rasanten Einsatz nichts herumfliegen darf. Das wäre ein zu grosses Verletzungsrisiko, und man hat auch keine Zeit, bei einem Einsatz noch Geräte zusammenzusuchen. Anja sagt, dass bei fast jedem Einsatz der Monitor dabei sei. Mit diesem könne man alles Mögliche machen, vom Überwachen des Patienten bis zur Defibrillation. Auch der Einsatzrucksack ist fast immer dabei. Er ist vor allem für die Erstversorgung ausgestattet. Es sind Medikamente, Infusionen und Sauerstoff vorhanden, also alles, was man für die Erstversorgung der Patienten braucht, bevor sie in den Wagen transportiert werden. Ein sehr markantes Gerät, das im Rettungswagen vorhanden ist, ist der sogenannte Lucas. Es sieht aus wie ein Bogen, aus dem so etwas wie ein Saugnapf herauskommt. Anja sagt: „Bei einer Reanimation nehmen wir ihn immer mit. Der Lucas ist eine Maschine, die für uns drückt.” Das Drücken bei der Herzdruckmassage sei sehr anstrengend, und deshalb sei der Lucas eine optimale Unterstützung. Jedoch gibt es auch noch viele andere Geräte, die bei Bedarf zum Einsatz hinzugefügt werden. Wenn man zum Beispiel mit einer bewusstlosen Person mit Erbrochenem oder Essensresten in der Speiseröhre rechnet, nimmt man zusätzlich eine Absaugeinheit mit, um die Atemwege freizulegen. So kann der Patient mit ausreichend Sauerstoff versorgt werden.
 
 ![ Abbildung 4 Lucas, der bei der Herzdruckmassage unterstützt. Foto: Justin Tran](lucas.png)
 
