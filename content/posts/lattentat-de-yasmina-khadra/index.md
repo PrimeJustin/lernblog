@@ -19,8 +19,6 @@ Amine Jaafari est un chirurgien israélien d’origine Arabe. il est devenu méd
 
 La citation du livre est faite à Amine par un membre du mouvement qui veut le retour d'Israël. Amine ne peut pas encore comprendre cela à l'époque, mais en poursuivant ses recherches, Amine en apprend davantage. Mais il ne veut pas comprendre pourquoi elle a fait ça. 
 
-Ç’est le texte de la lettre que Siheme a écrite à Amine. En lisant la lettre, il s'est rendu compte de la situation et il a eu une autre idée d'elle, comme il ne la connaissait pas. 
-
 «  à quoi sert le bonheur quand il n’est pas partagé, Amine, mon amour ? Mes joies s’éteignaient chaque fois, que les tiennes ne suivaient pas. Tu voulais des enfants. Je voulais les mériter. Aucun enfant n’est tout à fait à l’abri s’il n’a pas de patrie… Ne m’en veux pas. Siheme. »
 
 Ç’est le texte de la lettre que Siheme a écrite à Amine. En lisant la lettre, il s'est rendu compte de la situation et il a eu une autre idée d'elle, comme il ne la connaissait pas. 
